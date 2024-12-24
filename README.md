@@ -48,7 +48,7 @@ The tool also includes a bonus feature to plot fluid properties and Mach number 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shockwave-cd-duct.git
+   git clone https://github.com/yourusername/Converging-Diverging-Duct-Shockwave-Detector.git
    ```
 2. Open MATLAB and navigate to the project directory.
 3. Run `Shockwave_Calc.mlapp` to launch the GUI.
